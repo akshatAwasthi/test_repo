@@ -1,0 +1,22 @@
+print tree in spiral order -- level_order-traversal
+find tree level with max width -- level_order-traversal
+
+check CHILD SUM PROPERTY -- any traversal
+construct DOUBLE TREE -- post_order-traversal -- child before parent -- bottom up
+convert standard tree to satisfy CHILD SUM PROPERTY -- post_order-traversal -- to process child before parent -- bottom up
+
+diameter of tree -- max( {h(left) + h(right) + 1}, max(dia(left), dia(right)) ) 
+height of tree
+width of tree
+
+print all root to leaf paths -- pre_order-traversal -- backtracking -- use recursion stack
+check if any root to leaf path satisfies given sum -- pre_order-traversal -- backtracking -- use recursion stack to print path
+print node at k distance from root -- pre_order-traversal -- backtracking -- use recursion stack to print
+print all ancestors -- use recursion stack o print
+
+construct tree from inorder and postorder traversals
+
+
+
+
+
